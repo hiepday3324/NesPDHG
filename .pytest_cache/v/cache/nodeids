@@ -1,0 +1,12 @@
+[
+  "tests/r2hpdhg_test.py::test_r2hpdhg",
+  "tests/r2hpdhg_test.py::test_r2hpdhg_with_jit",
+  "tests/r2hpdhg_test.py::test_r2hpdhg_with_sharding",
+  "tests/r2hpdhg_test.py::test_r2hpdhg_with_vmap",
+  "tests/rapdhg_test.py::test_rapdhg_lp",
+  "tests/rapdhg_test.py::test_rapdhg_lp_with_jit",
+  "tests/rapdhg_test.py::test_rapdhg_lp_with_vmap",
+  "tests/rapdhg_test.py::test_rapdhg_qp",
+  "tests/rapdhg_test.py::test_rapdhg_qp_with_jit",
+  "tests/rapdhg_test.py::test_rapdhg_with_sharding"
+]
