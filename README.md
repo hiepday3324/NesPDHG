@@ -63,8 +63,8 @@ Phương pháp `nesPDHG` được đề xuất cho thấy sự cải thiện đ�
 Nếu bạn sử dụng công trình này trong nghiên cứu của mình, vui lòng trích dẫn bài báo gốc.
 
 ```bibtex
-@article{HuongHiepKoch2025,
-  title   = {Halpern-typed methods for LPs},
+@article{NesLP2025,
+  title   = {Nesterov–Halpern Methods for LPs},
   author  = {Vu, Thi Huong and Le, Duc Hiep and Koch, Thorsten},
   journal = {ZIB Report (ArXiv Preprint)},
   year    = {2025},
