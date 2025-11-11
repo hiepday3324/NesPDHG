@@ -19,7 +19,7 @@ This repository extends the original `MPAX` library with the following algorithm
 
 * **`nesPDHG`**: The proposed Halpern-typed method from this work, based on its connection to Nesterov's acceleration. In experiments, it is configured with `w=3` and `gamma=0.75`.
 * **`nes1_pdhg`**, **`nes2_pdhg`**: Variants of `nesPDHG` with different parameter choices for `w` and `gamma`.
-* **`r2HPDHG`**: A second-order "Restarted Halpern PDHG" variant.
+* **`r2HPDHG`**: A reflection "Restarted Halpern PDHG" variant.
 * **`rHPDHG`**: The baseline "Restarted Halpern PDHG" method.
 * **`r2HPDHGmpax`**: The practical implementation of `r2HPDHG` found in the `MPAX` library.
 
