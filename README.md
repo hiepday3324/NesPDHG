@@ -42,8 +42,6 @@ Kho chứa này mở rộng thư viện `MPAX` gốc với các thuật toán sa
 
 ## 📊 Tái tạo kết quả
 
-Bạn có thể sử dụng notebook **`Compare.ipynb`** để chạy so sánh hiệu suất giữa các solver khác nhau.
-
 Notebook này sẽ giúp tái tạo lại các kết quả được trình bày trong bài báo, so sánh thời gian giải trung bình và đường cong phân phối tích lũy thực nghiệm (ECD).
 
 ## 📈 Kết quả nổi bật
