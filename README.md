@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center">
   <img src="https://github.com/MIT-Lu-Lab/mpax/blob/main/docs/mpax.png" alt="MPAX" width="360">
 </p>
@@ -198,3 +199,6 @@ If MPAX is useful or relevant to your research, please kindly recognize our cont
 =======
 # NesPDHG
 >>>>>>> 2a162daaefa9b1b4be638bba8404ecd601128704
+=======
+
+>>>>>>> cf478b88a015c3f55b4b63084d3291b0a3e951b9
