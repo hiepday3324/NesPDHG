@@ -6,11 +6,10 @@ Nghiên cứu này tìm hiểu các phương pháp kiểu Halpern để giải c
 
 Code này được xây dựng dựa trên thư viện **MPAX** (Mathematical Programming in JAX) (bản gốc: `https://github.com/MIT-Lu-Lab/MPAX`).
 
-## 📄 Bài báo liên quan
+## 📄 Bài báo liên quan (Preparing)
 
-* **Tên bài báo:** Halpern-typed methods for LPs
+* **Tên bài báo:** Nesterov–Halpern Methods for LPs
 * **Tác giả:** Vu Thi Huong, **Le Duc Hiep**, và Thorsten Koch
-* **Ngày:** 11 tháng 11 năm 2025
 
 > **Tóm tắt (Abstract):** In this work, we study Halpern-typed methods to solve linear programs. Theoretical guarantees for the convergence and convergence rates of the methods are revised, and numerical experiments to compare with state-of-the-art first-order methods are presented.
 
